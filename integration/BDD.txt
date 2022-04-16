@@ -1,0 +1,13 @@
+
+   DATATABLES  -----> 
+
+
+
+
+   OUTLINE SCENARIO -----> 
+
+
+
+
+   feature file --> step defination
+   .js --> step implmentation
